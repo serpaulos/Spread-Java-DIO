@@ -11,9 +11,19 @@ public class Main {
         float f2 = 3.5F;
 
         char c1 = 'x';
-        char c2 = 'x';
+        char c2 = 'y';
 
-        
+        String s1 = "Fulano";
+        String s2 = "Fulano";
+
+        boolean b1 = true;
+        boolean b2 = false;
+
+        System.out.println("");
+        System.out.println("");
+        System.out.println("");
+        System.out.println("");
+        System.out.println("");
 
     }
 }
